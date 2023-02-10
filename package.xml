@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://download.ros.org/schema/package_format2.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="2">
+  <name>DLib</name>
+  <version>1.0.0</version>
+  <description>A collection of C++ classes to solve common tasks in C++ programs.</description>
+  <author>Dorian Galvez</author>
+  <maintainer email="dorian3d@gmail.com"></maintainer>
+  <license>BSD</license>
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
